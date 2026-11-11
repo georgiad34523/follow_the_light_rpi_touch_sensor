@@ -1,5 +1,5 @@
 # follow_the_light_rpi_touch_sensor
-A follow the led game, made with raspberry pi and adafruit's capacitive touch hat.
+A follow the LED game, made with raspberry pi and Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121
 
 I used and adapted example code from 'Adafruit_CircuitPython_MPR121'
 
